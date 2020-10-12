@@ -1,0 +1,45 @@
+.App{
+  text-align: center;
+  margin: auto;
+}
+.text{
+  width: 300px;
+  border: 1px solid black;
+  margin: auto;
+  text-align: center;
+
+}
+
+.text-winner{
+  margin: 10px;
+  bottom: 15px;
+}
+.button-game{
+  margin: 10px;
+  bottom: 15px;
+}
+
+.divStyle{
+  margin: auto;
+  width: 1300px;
+  height: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.itemStyle_hidden{
+  visibility: hidden;
+  width: 20px;
+  height: 20px;
+  margin: 1px;
+  border: 1px solid black;
+  display: flex;
+  place-content: center;
+}
+.itemStyle{
+  width: 20px;
+  height: 20px;
+  margin: 1px;
+  border: 1px solid black;
+  display: flex;
+  place-content: center;
+}
